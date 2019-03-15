@@ -1,0 +1,16 @@
+C:\Users\mai\Downloads\滚动条源文件\AppTest\bin\Debug\AppTest.exe.config
+C:\Users\mai\Downloads\滚动条源文件\AppTest\obj\Debug\AppTest.csprojResolveAssemblyReference.cache
+C:\Users\mai\Downloads\滚动条源文件\AppTest\obj\Debug\AppTest.Form1.resources
+C:\Users\mai\Downloads\滚动条源文件\AppTest\obj\Debug\AppTest.Properties.Resources.resources
+C:\Users\mai\Downloads\滚动条源文件\AppTest\obj\Debug\AppTest.csproj.GenerateResource.Cache
+D:\MyWorkSpace\C_Shap\滚动条源文件\AppTest\bin\Debug\AppTest.exe.config
+D:\MyWorkSpace\C_Shap\滚动条源文件\AppTest\bin\Debug\AppTest.exe
+D:\MyWorkSpace\C_Shap\滚动条源文件\AppTest\bin\Debug\AppTest.pdb
+D:\MyWorkSpace\C_Shap\滚动条源文件\AppTest\bin\Debug\MyControlLibrary.dll
+D:\MyWorkSpace\C_Shap\滚动条源文件\AppTest\bin\Debug\MyControlLibrary.pdb
+D:\MyWorkSpace\C_Shap\滚动条源文件\AppTest\obj\Debug\AppTest.csprojResolveAssemblyReference.cache
+D:\MyWorkSpace\C_Shap\滚动条源文件\AppTest\obj\Debug\AppTest.Form1.resources
+D:\MyWorkSpace\C_Shap\滚动条源文件\AppTest\obj\Debug\AppTest.Properties.Resources.resources
+D:\MyWorkSpace\C_Shap\滚动条源文件\AppTest\obj\Debug\AppTest.csproj.GenerateResource.Cache
+D:\MyWorkSpace\C_Shap\滚动条源文件\AppTest\obj\Debug\AppTest.exe
+D:\MyWorkSpace\C_Shap\滚动条源文件\AppTest\obj\Debug\AppTest.pdb
